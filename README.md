@@ -168,6 +168,20 @@ SYNTH-SCAN
 
 ---
 
+
+## Download
+
+You can download the complete project as a ZIP file.
+
+Click **Code → Download ZIP** or download the release file.
+
+After downloading:
+
+1. Extract the ZIP file
+2. Open terminal inside the project folder
+3. Install dependencies
+
+
 # Installation
 
 Clone the repository:
