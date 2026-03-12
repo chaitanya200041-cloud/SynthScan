@@ -1,0 +1,35 @@
+
+===============================
+        WAPT Security Report
+===============================
+
+Target: www.svit.ac.in
+
+Open Ports:
+[80, 443]
+
+Directories:
+[]
+
+Subdomains:
+[]
+
+XSS Vulnerability:
+False
+
+SQL Injection:
+False
+
+Missing Security Headers:
+['X-Frame-Options', 'X-Content-Type-Options', 'Strict-Transport-Security', 'Referrer-Policy']
+
+Technologies Detected:
+['Server: hcdn', 'Language: PHP', 'Library: jQuery']
+
+Robots.txt Paths:
+[]
+
+Risk Score: 3
+Severity Level: LOW
+
+===============================
